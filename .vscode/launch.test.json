@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "LogSample",
+                "projectName": "LogSample",
+                "workingDirectory": "/Volumes/Fudi OX/Java/LogSample",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "LogSample",
+                "projectName": "LogSample",
+                "workingDirectory": "/Volumes/Fudi OX/Java/LogSample",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
